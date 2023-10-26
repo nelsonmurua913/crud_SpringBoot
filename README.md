@@ -1,2 +1,2 @@
-# crud_SpringBoot
-crud_SpringBoot
+# SpringBoot-curd
+Example project for CRUD in spring boot
